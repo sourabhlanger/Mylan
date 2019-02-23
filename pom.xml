@@ -6,6 +6,7 @@
 
   <groupId>mylan</groupId>
   <artifactId>mylan</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>mylan</name>
